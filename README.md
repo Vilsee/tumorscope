@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![NeuroScope Banner](https://img.shields.io/badge/WHO_CNS5-2021_Taxonomy-00D2FF?style=for-the-badge&logo=brain&logoColor=white)
+![NeuroScope Thumbnail Cover](thumbnail.png)
+
+![WHO CNS5](https://img.shields.io/badge/WHO_CNS5-2021_Taxonomy-00D2FF?style=for-the-badge&logo=brain&logoColor=white)
 ![Next.js 14](https://img.shields.io/badge/Next.js-14.2_App_Router-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL_Procedural_Shader-black?style=for-the-badge&logo=three.js)
