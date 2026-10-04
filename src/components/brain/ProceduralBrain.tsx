@@ -31,10 +31,10 @@ export default function ProceduralBrain({ onSelect, isInteractive = false, selec
       
       <BrainRegionMarker
         region="meninges"
-        position={[0, 0, 0]}
-        scale={[1.9, 1.9, 1.9]}
+        position={[0, 1.35, 0.2]}
+        scale={[0.3, 0.3, 0.3]}
         geometryType="sphere"
-        opacity={0.05}
+        opacity={0.6}
         onSelect={onSelect}
         isInteractive={isInteractive}
         selectedRegion={selectedRegion}
