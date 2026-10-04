@@ -22,10 +22,10 @@ async function createGIF() {
   await page.setViewport({ width: 960, height: 600 });
 
   const routes = [
-    { title: '1. Global Burden Context Widget', url: 'http://localhost:3000/' },
-    { title: '2. Procedural 3D Brain Atlas', url: 'http://localhost:3000/atlas' },
-    { title: '3. WHO CNS5 Classification Explorer & Spectrum', url: 'http://localhost:3000/classification' },
-    { title: '4. Evidence Radar & Grounded AI Summarizer', url: 'http://localhost:3000/evidence' }
+    { title: '1. Global Burden Context Widget', url: 'https://tumorscope.vercel.app/' },
+    { title: '2. Procedural 3D Brain Atlas', url: 'https://tumorscope.vercel.app/atlas' },
+    { title: '3. WHO CNS5 Classification Explorer & Spectrum', url: 'https://tumorscope.vercel.app/classification' },
+    { title: '4. Evidence Radar & Grounded AI Summarizer', url: 'https://tumorscope.vercel.app/evidence' }
   ];
 
   const width = 960;
